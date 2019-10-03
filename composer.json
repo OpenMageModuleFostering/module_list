@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Module_List",
+    "name": "OpenMageModuleFostering\/Module_List",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
     "description": "Reports on installed Magento code modules",
     "authors": [
-    {
-        "name": "Alan Storm",
-        "email": "astorm@alanstorm.com"
-    }
-],
+        {
+            "name": "Alan Storm",
+            "email": "astorm@alanstorm.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
